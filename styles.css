@@ -106,6 +106,7 @@ form{
 
 #clear:hover{
     font-weight: bold;
+    cursor: pointer;
 }
 
 ul, li{
